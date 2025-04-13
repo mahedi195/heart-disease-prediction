@@ -14,3 +14,13 @@ pip install -r requirements.txt
 
 # Step 4: Run the Streamlit app
 streamlit run app.py
+
+
+
+'''
+git hub upload
+git status
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+
