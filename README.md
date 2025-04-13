@@ -14,9 +14,6 @@ pip install -r requirements.txt
 
 # Step 4: Run the Streamlit app
 streamlit run app.py
-
-
-
 '''
 git hub upload
 git status
