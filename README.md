@@ -14,6 +14,12 @@ pip install -r requirements.txt
 
 # Step 4: Run the Streamlit app
 streamlit run app.py
+
+# dockerization
+docker build -t heart_disease_project .
+
+docker info
+docker run -p 8501:8501 heart_disease_project
 '''
 git hub upload
 git status
